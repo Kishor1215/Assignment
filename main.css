@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Spartan',sans-serif;
+}
+.butt{
+    display: none;
+    
+}
+
+#take_picture{
+    
+    font-size: 14px;
+     font-weight: 600;
+     padding: 15px 30px;
+     color: rgb(16, 223, 23);
+     background-color: rgb(17, 7, 7);
+     border-radius: 4px;
+     cursor: pointer;
+     border: 2px solid red;
+     outline: none;
+     transition: 0.2s;
+}
